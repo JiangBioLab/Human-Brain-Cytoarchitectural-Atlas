@@ -1,6 +1,7 @@
 # Cytoarchitectural atlas of human cerebral cortex
-
-<img src=https://github.com/JiangBioLab/Human-Brain-Cytoarchitectural-Atlas/blob/main/mainFig.png width=60% />
+<div align="center">
+<img src=https://github.com/JiangBioLab/Human-Brain-Cytoarchitectural-Atlas/blob/main/mainFig.png width=40% />
+</div>
 
 
 Establishing a cytoarchitectural atlas of human cerebral cortex is of high importance for understanding the cellular basis of human intelligence. Advent technologies like single-cell RNA sequencing have empowered us to decipher the cellular basis of complex tissues. Previous studies described neuronal properties with telencephalic heterogeneity and spatial cellular features in one or two cortical regions of mammals at the single-cell level, as well as regional heterogeneity of cell types across the entire mouse nervous system. However, there is no large-scale census of human cortical neuronal cell types and even their cellular architecture in multiple brain regions of human.
