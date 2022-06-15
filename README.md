@@ -1,6 +1,6 @@
 # Cytoarchitectural atlas of human cerebral cortex
 <div align="center">
-<img src=https://github.com/JiangBioLab/Human-Brain-Cytoarchitectural-Atlas/blob/main/mainFig.png width=90% />
+<img src=https://github.com/JiangBioLab/Human-Brain-Cytoarchitectural-Atlas/raw/main/mainFig.png width=90% />
 </div>
 
 
